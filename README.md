@@ -4,11 +4,12 @@ Avengers Assemble
 
 Avengers Assemble ist eine animierte Fernsehserie von Marvel, die 2013 erstmals veröffentlicht wurde. Sie basiert auf dem erfolgreichen Superheldenteam The Avengers und dient als spiritueller Nachfolger der Serie The Avengers: Earth's Mightiest Heroes.
 
-Inhalt
+
+# Inhalt
 
 Die Serie folgt den Abenteuern der bekanntesten Marvel-Helden, darunter:
 
-Iron Man
+# Iron Man
 
 Captain America
 
